@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP1.OOO_METROL">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAABAIAAAAAAAAAAAAGAAAACAAAAAAAA=</HashCode>
+      <FileName>OOO_METROL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP1.Design_department">
+    <Position X="5.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Design_department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP1.Assembly_shop" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assembly_shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP1.Archive" Collapsed="true">
+    <Position X="5.25" Y="3.5" Width="1.5" />
+    <InheritanceLine Type="OOP1.Design_department" FixedToPoint="true">
+      <Path>
+        <Point X="6" Y="3.233" />
+        <Point X="6" Y="3.346" />
+        <Point X="5.938" Y="3.346" />
+        <Point X="5.938" Y="3.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Archive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP1.Director">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAQAAAAAAA=</HashCode>
+      <FileName>Director.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP1.Scientific_research">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>scientific_research.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP1.Accounting">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Accounting.cs</FileName>
+      <NewMemberFileName>Director.cs</NewMemberFileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP1.sales_department">
+    <Position X="2" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>sales_department.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP1.Program" Collapsed="true">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP1.New_device" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>New_device.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
